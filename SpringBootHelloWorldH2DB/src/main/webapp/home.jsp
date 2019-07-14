@@ -14,5 +14,10 @@
 		<input type = "submit"/><br>
 	</form>
 	
+	<form action="getEmployee">
+		<input type = "text" id = "empId"/><br>
+		<input type = "submit"/><br>
+	</form>
+	
 </body>
 </html>
